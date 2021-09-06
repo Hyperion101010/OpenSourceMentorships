@@ -33,4 +33,4 @@ A small effort to index most of the open source mentorship projects and programs
 - A high enthusiastic community with a lot of opportunities in current scenario.
 
 ### Research
-1. 
+1. Few GSOC orgs which work on research and can't get enough  participants.
