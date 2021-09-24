@@ -13,7 +13,7 @@ A small effort to index most of the open source mentorship projects and programs
 | FossAsia | OFE, Mobile, Web dev | https://fossasia.org
 | Reinforcement Learning Open Source Fest | ML, Research | https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest
 | MITACS Globalink | Research, Canada | https://www.mitacs.ca/en/programs/globalink/globalink-research-internship
-| MIDAS iitd | Research, Digital lab | http://midas.iiitd.edu.in
+| MIDAS iiitd | Research, Digital lab | http://midas.iiitd.edu.in
 
 ## Domain wise open source projects worth contributing:
 
