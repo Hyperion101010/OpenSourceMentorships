@@ -14,6 +14,7 @@ A small effort to index most of the open source mentorship projects and programs
 | Reinforcement Learning Open Source Fest | ML, Research | https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest
 | MITACS Globalink | Research, Canada | https://www.mitacs.ca/en/programs/globalink/globalink-research-internship
 | MIDAS iiitd | Research, Digital lab | http://midas.iiitd.edu.in
+| Deeppavlov AI | Research, Open Source | https://deeppavlov.ai/internships
 
 ## Domain wise open source projects worth contributing:
 
