@@ -1,20 +1,21 @@
 # OpenSourceMentorships
 A small effort to index most of the open source mentorship projects and programs for fellow students and grads.
 
-| Program | Domain | Link |
-| ------ | ------ | ------ |
-| CROSS Research Experience Program | Programming, Research| https://cross.ucsc.edu/programs/osre2021.html
-| MLH Fellowship | Open Source, DevOps| https://fellowship.mlh.io
-| Igalia Coding Experience | Compilers, Native development | https://www.igalia.com/coding-experience
-| 24PullRequest | Voluntary Contest| https://24pullrequests.com
-| LFX Mentorships | OFE, Different Technoligies | https://mentorship.lfx.linuxfoundation.org
-| Season of KDE | OFE, Native, Web dev | https://season.kde.org
-| Hacktoberfest | OFE, Contest | https://hacktoberfest.digitalocean.com
-| FossAsia | OFE, Mobile, Web dev | https://fossasia.org
-| Reinforcement Learning Open Source Fest | ML, Research | https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest
-| MITACS Globalink | Research, Canada | https://www.mitacs.ca/en/programs/globalink/globalink-research-internship
-| MIDAS iiitd | Research, Digital lab | http://midas.iiitd.edu.in
-| Deeppavlov AI | Research, Open Source | https://deeppavlov.ai/internships
+| Program | Domain | Link | Description
+| ------ | ------ | ------ | ------ |
+| CROSS Research Experience Program | Programming, Research| https://cross.ucsc.edu/programs/osre2021.html | Passionate people in thier own domain
+| MLH Fellowship | Open Source, DevOps| https://fellowship.mlh.io | One of the respected internships
+| Igalia Coding Experience | Compilers, Native development | https://www.igalia.com/coding-experience | Good people, good work, good stipend
+| 24PullRequest | Voluntary Contest| https://24pullrequests.com | A month long contest
+| LFX Mentorships | OFE, Different Technoligies | https://mentorship.lfx.linuxfoundation.org | 
+| Season of KDE | OFE, Native, Web dev | https://season.kde.org | 
+| Hacktoberfest | OFE, Contest | https://hacktoberfest.digitalocean.com | Get a free tshirt with 5 successful PR's merged
+| FossAsia | OFE, Mobile, Web dev | https://fossasia.org | Work on Reactjs and Nodejs, Java as an intern/FTE
+| Reinforcement Learning Open Source Fest | ML, Research | https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest | For students
+| MITACS Globalink | Research, Canada | https://www.mitacs.ca/en/programs/globalink/globalink-research-internship | Students get internship with Canadian colleges
+| MIDAS iiitd | Research, Digital lab | http://midas.iiitd.edu.in | Intern and Voluntary work in NLP and Multimedia processing.
+| Deeppavlov AI | Research, Open Source | https://deeppavlov.ai/internships |
+| Google CS Research Scholarship | Research, MS student mostly | https://research.google/outreach/csrmp | Selected people get guided by a googler  
 
 ## Domain wise open source projects worth contributing:
 
